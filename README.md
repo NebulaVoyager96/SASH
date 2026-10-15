@@ -5,11 +5,11 @@ The real-world datasets can be obtained from https://www.cs.cornell.edu/~arb/dat
 
 To compile SASH, type:
 
-g++ -O3 -std=c++11 main_approx_ver21.cpp -o approx_ver21
+g++ -O3 -std=c++11 main_approx_ais_SASH.cpp -o approx_ais_SASH
 
 To run SASH, type:
 
-./approx_ver21 10000
+./approx_ais_SASH 10000
 
 
 
