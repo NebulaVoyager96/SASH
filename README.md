@@ -11,4 +11,8 @@ To run SASH, type:
 
 ./approx_ais_SASH 10000
 
-Version：SASH v1.0.0 (paper implementation).
+Software Environment：
+- OS: Windows 64-bit
+- Compiler: g++ 15.1.0 (MinGW-Builds, x86_64-posix-seh-rev0)
+- C++ standard: C++11
+- Optimization: -O3
