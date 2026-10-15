@@ -11,5 +11,4 @@ To run SASH, type:
 
 ./approx_ais_SASH 10000
 
-
-
+Version：SASH v1.0.0 (paper implementation).
