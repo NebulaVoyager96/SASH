@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 	clock_t run_start;
 	int progress;
 
-	string graphFile = "coauth-DBLP-full_graph.txt";
+	string graphFile = "NDC-classes-full.txt";
 
 	// Read data
 	start = clock();
