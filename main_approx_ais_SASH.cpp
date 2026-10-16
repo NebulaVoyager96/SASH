@@ -115,9 +115,8 @@ int main(int argc, char* argv[])
         &seed + 1
     );
     // =========================================================
-    //g++ -O3 -std=c++11 main_approx_ais_SRS1.cpp -o approx_ais_SRS1;
-    //./approx_ais_SRS1 10000
-    string graphFile = "email-Eu-full.txt";
+
+    string graphFile = "NDC-classes-full.txt";
 
     if (argc >= 3) {
         graphFile = argv[2];
