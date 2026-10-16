@@ -306,7 +306,7 @@ int main(int argc, char* argv[])
     start = clock();
 
     vector<int> degree_bins = {
-        0, 10, 40, 160, 320, 640, INT_MAX
+        0, 5, 10, 20, 40, 80, 160, 320, 640, INT_MAX
     };
 
     int num_degree_bins = degree_bins.size() - 1;
